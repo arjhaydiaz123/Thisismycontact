@@ -66,7 +66,7 @@ body{
     gap: 10px;
     border: none;
     border-radius: 50px;
-    background: linear-gradient(270deg,#ff994f,#fa6d86);
+    background: linear-gradient(270deg,#1100ff,#000000);
     cursor: pointer;
 }
 .contact-left button img{
